@@ -1013,8 +1013,8 @@ export default class ZWallet extends React.Component {
         showSettings: false,
         showWalletGen: false,
         compressPubKey: true,
-        insightAPI: 'https://bitcoinz.ph/api/',
-        explorerURL: 'https://bitcoinz.ph/',
+        insightAPI: 'https://explorer.btcprivate.org/api/',
+        explorerURL: 'https://explorer.btcprivate.org/',
         useTestNet: false,
         unlockType: UNLOCK_WALLET_TYPE.HD_WALLET
       }
