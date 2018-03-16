@@ -7,11 +7,11 @@ Initial commit is beta, working. The commit is neccesary that the community can 
 
 Please post issues, concerns, comments, and pull requests.
 
-myBitcoinZWallet a client-side browser based wallet for BitcoinZ BTCZ based on
+myBitcoinZWallet a client-side browser based wallet for BitcoinZ BTCP based on
 MyZENWallet which is the original client-side browser-based wallet for ZenCASH.
 
 # Adapted
-`node_modules/btczjs` for zcash tx
+`node_modules/btcprivatejs` for zcash tx
 
 
 # Running locally
