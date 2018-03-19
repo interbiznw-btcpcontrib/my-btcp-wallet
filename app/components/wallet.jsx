@@ -1147,12 +1147,12 @@ export default class ZWallet extends React.Component {
     _settings.useTestNet = !_settings.useTestNet
 
     if (_settings.useTestNet){
-      _settings.insightAPI = 'https://BTCP.ph/insight-api-zcash/'
-      _settings.explorerURL = 'https://BTCP.ph/'
+      _settings.insightAPI = 'https://explorer.btcprivate.org/api/'
+      _settings.explorerURL = 'https://explorer.btcprivate.org/'
     }
     else{
-      _settings.insightAPI = 'https://BTCP.ph/insight-api-zcash/'
-      _settings.explorerURL = 'https://BTCP.ph/'
+      _settings.insightAPI = 'https://explorer.btcprivate.org/api/'
+      _settings.explorerURL = 'https://explorer.btcprivate.org/'
     }
 
     this.setState({
